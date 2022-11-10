@@ -1,13 +1,10 @@
-### Welcome! 👋
+### Hi, I'm Tanvi 👋
 
-<!--
-**trdotpy/trdotpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍💻 Interests: Quantitative finance, web development
+- 🔬 Learning: Nest.js 
+- 📖 Reading: "The Beginning of Infinity: Explanations that Transform the World" by David Deutsch
+- 🏋️‍♀️ Hobbies: Weight lifting, music production, cars
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
--->
 
 #### Technologies I work with:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
