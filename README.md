@@ -1,4 +1,4 @@
-## Welcome! I'm Tanvi 👋
+## Welcome!
 
 - 🧑🏽‍💻 Interests: Quantitative Finance, Web Development
 - 🔬 Currently Learning: Nest.js
